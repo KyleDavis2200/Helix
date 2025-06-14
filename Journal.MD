@@ -1,0 +1,10 @@
+i need to actually do the proper formatting at some point
+
+6/13/2025
+
+I began this project by searching for excuses to make an overly complicated combat robot. Combat robotics is my main hobby, but I have never ventured far outside of the meta out of fear of wasting time and money on an unsucessful bot. Hack Club's Highway program rewards projects that are extra complex with a higher budget and more points in the program. I saw this as the perfect opportunity to make a more complicated robot design. My previous experience in combat robotics comes from my 15lb robot, Dino, which I have placed 2nd and 3rd with at NRL Nationals over the last 2 years. Dino uses an eggbeater style weapon, which is very common and relatively simple. For this project I am going to use a more complicated weapon system, and maybe even a custom PCB, to make my project more complicated to warrant the higher budget and more points in Highway. This is something I have always wanted to do as well, as these more mechanically complex robots are always very fascinating, but Highway gave me the perfect justification to pull the trigger on it.
+
+My first idea was to make a hammersaw, which uses a spinning weapon on an arm to attack the tops of other robots. However, the hammersaw has been very popular over the last year or two, especially in insectweights. This has led to the systems/parts needed to run a hammersaw being relatively well documented. I opted not to build a hammersaw as the well documented and convergant nature of hammersaw electronics/mechanics may cause me to not get the full points for Highway, which I would need to fund the build.
+
+This led me to think about the most complicated robot designs I could think of, to make sure I could earn the full points and budget from Highway. My mind instantly went to ring spinners, which are typically very complicated due to the difficulty of constraining and powering such a thin blade. The advantage of this, however, is that you can build a robot where the blade sticks far enough out from your robot where you are able to reach your opponent while they have nowhere to target on your robot. 
+
