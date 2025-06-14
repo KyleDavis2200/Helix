@@ -8,3 +8,4 @@ My first idea was to make a hammersaw, which uses a spinning weapon on an arm to
 
 This led me to think about the most complicated robot designs I could think of, to make sure I could earn the full points and budget from Highway. My mind instantly went to ring spinners, which are typically very complicated due to the difficulty of constraining and powering such a thin blade. The advantage of this, however, is that you can build a robot where the blade sticks far enough out from your robot where you are able to reach your opponent while they have nowhere to target on your robot. 
 
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image.png)
