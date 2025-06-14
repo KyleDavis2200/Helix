@@ -32,3 +32,8 @@ Clearly, I had way too much room on the inside at this point, so I chose to shri
 Current weight.
 
 By shrinking the internal ring diameter down to 5.25", I was able to knock a significant amount of weight out of the weapon, and this would also reduce the amount of weight spent in the remainder of the frame as the frame too would now be smaller. 
+
+~[](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-13_225553273.png)
+Current internal layout.
+
+I plan to proceed with this layout tomorrow as I model the frame, however I expect to encounter weight issues very shortly into my design process. My plan to save weight from there is to remove the rear bearing and reposition the remaining four bearings in a more square shape, allowing the battery to move further back and get rotated to fill up the created space. This would then allow me to shrink the robot more. This would save plenty of weight between the reduction in frame size, weapon size, and bearing count. I initially wanted to have five bearings as it would allow me to have three bearings supporting against the axial forces of upwards impacts and two against the axial forces of downwards(or, more likely, upwards impacts while inverted) impacts, however two of each would likely be plenty.
