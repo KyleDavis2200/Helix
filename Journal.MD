@@ -42,7 +42,7 @@ I plan to proceed with this layout tomorrow as I model the frame, however I expe
 
 6/14/2025
 
-4 Hours
+6 Hours
 
 Well, after thinking about it some more, I realized I should just got to the four bearing setup. This would save some weight and allow me to compact the robot more, which is always ideal. I would like to use extra weight for armor or for a fork on the back of the robot(unconventional for a ring spinner but counters the counter to the weapon). I also realized that the Repeat 2822 weapon motor that I planned on using would have been too big, sticking out past the top plate, and would have caused the robot to not be invertible. Instead, I replaced it with two 2205 drone motors, which should provide more than enough power. A single one of these motors could probably spin up the weapon, just barely, but due to the size of the weapon more motor is ideal. 
 
@@ -53,7 +53,7 @@ I still felt like there was a bit more space to be squeezed out. One of the flaw
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_190412500.png)
 
-This layout, with the space gained from the treads, was much more comfortable. Each track weighed approximately 6.5 grams, which seemed bearable. Next, I made a sketch of the side of the robot, which would guide my extrusion thicknesses in the next step.
+This layout, with the space gained from the treads, was much more comfortable. Each track/belt weighed approximately 2 grams, which seemed bearable. Next, I made a sketch of the side of the robot, which would guide my extrusion thicknesses in the next step.
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_202731101.png)
 Oops! All weapon (: !
@@ -78,3 +78,9 @@ Current design progress.
 At this point, I added all the features for mounting the drive motors and the drive pulleys. The mounting plates use dogbones to key into the top and bottom plates, allowing them to have a healthy amount of strength without using any fasteners yet. I will likely add a single screw to each plate later once I am adding the TPU armor.
 
 At this point, I have about 90 grams left for ESCs, a series board for the batteries, a receiver, and any armor. Since each of those items besides the armor is just a couple grams I am not too worried about weight, but the armor weight can add up quickly. However, the whole idea behind this design was to "hide" behind the large weapon, so I am probably going to use very minimal armor.
+
+6/15/2025
+
+1 Hour
+
+At this point, I modeled in the drive pulleys and the belts/tracks. 
