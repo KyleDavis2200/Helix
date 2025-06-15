@@ -92,3 +92,6 @@ Adding in the drive motors revealed a couple flaws. I messed up when calculating
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_162455374.png)
 At this point, I got the drive motors to pretty much fit, but I will need to trim the shafts. The other issue is that two of the motor mounting screws interfere with the wheel pulleys and standoffs, so I may need to use countersunk screws in carbon fiber, which is suboptimal but I don't have many other choices.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_184619167.png)
+Now, I countersunk the drive motor mounting screws, inserted the weapon motors, and cut down the shafts on both the drive motors and the weapon motors. The issue I am facing now is that the weapon motor has a red part where it mounts which does not spin, and that happens to line up perfectly at the height of the blade. Making my blade as low as possible is ideal against vertical spinners, so I wanted to keep the blade low, and mounting the motors to the top would make assembly more difficult, so instead I will solve this by thickening up the plastic(nylon or TPU, not sure yet) interface layer between the motor and the ring to be stiff enough where it can drive the ring without being directly supported by the motor can.
