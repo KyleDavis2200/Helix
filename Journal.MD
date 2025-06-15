@@ -42,7 +42,7 @@ I plan to proceed with this layout tomorrow as I model the frame, however I expe
 
 6/14/2025
 
-1 Hour
+3 Hours
 
 Well, after thinking about it some more, I realized I should just got to the four bearing setup. This would save some weight and allow me to compact the robot more, which is always ideal. I would like to use extra weight for armor or for a fork on the back of the robot(unconventional for a ring spinner but counters the counter to the weapon). I also realized that the Repeat 2822 weapon motor that I planned on using would have been too big, sticking out past the top plate, and would have caused the robot to not be invertible. Instead, I replaced it with two 2205 drone motors, which should provide more than enough power. A single one of these motors could probably spin up the weapon, just barely, but due to the size of the weapon more motor is ideal. 
 
