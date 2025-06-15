@@ -73,3 +73,6 @@ At this point I realized that the robot would be impossible to assemble due to t
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_002134318.png)
 Current design progress.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_032743260.png)
+At this point, I added all the features for mounting the drive motors and the drive pulleys. The mounting plates use dogbones to key into the top and bottom plates, allowing them to have a healthy amount of strength without using any fasteners yet. I will likely add a single screw to each plate later once I am adding the TPU armor.
