@@ -64,5 +64,7 @@ Next, I extruded everything according to the sketches I made above. This outline
 Current design.
 
 Instead of doing the productive next step I described above, I created an assembly file(I do my frame as a multibody part) and inserted the weapon.
+
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_213801554.png)
-Yeah this thing is rediculous.
+
+Yeah this thing is ridiculous.
