@@ -49,7 +49,7 @@ Well, after thinking about it some more, I realized I should just got to the fou
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_181452156.png)
 This was the setup that I arrived at.
 
-I still felt like there was a bit more space to be squeezed out. One of the flaws with this setup is I needed to find space for belts to power the front wheels, and I didn't leave much space for this. My next step was to look into using tracks instead of wheels, as these would allow me to save more internal space as I can use two small pulleys for each the front and back of the tracks, creating a more rectangular profile, saving space on the inside of the robot.
+I still felt like there was a bit more space to be squeezed out. One of the flaws with this setup is I needed to find space for belts to power the front wheels, and I didn't leave much space for this. My next step was to look into using tracks instead of wheels, as these would allow me to save more internal space as I can use two small pulleys for each the front and back of the tracks, creating a more rectangular profile, saving space on the inside of the robot. I initially looked into silicone timing belts and silicone coated timing belts, but I would have need to custom order them. Next, I looked into using silicone wrist bands, but they would have been slightly too short. Instead, I opted to use round belts which I could make to the exact length that I needed by melting them together at the right length.
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_190412500.png)
 
@@ -68,3 +68,8 @@ Instead of doing the productive next step I described above, I created an assemb
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_213801554.png)
 
 Yeah this thing is ridiculous.
+
+At this point I realized that the robot would be impossible to assemble due to the drive tracks needing to go through the top and bottom plates. I changed this by making cutouts in the top and bottom plate where they could be slid in between the treads. This also saved weight and removed a fragile area that was likely to result in the plates cracking. At this point I also realized I had to create cutouts in the top plate around the weapon (not pictured) motor since there was still 0.7mm of interference even after switching to a smaller motor. I may find a way to undo this or create a cover for it later, but for right now this is what I had to do.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_002134318.png)
+Current design progress.
