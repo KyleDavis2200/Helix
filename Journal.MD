@@ -61,3 +61,8 @@ Oops! All weapon (: !
 Next, I extruded everything according to the sketches I made above. This outlines the construction of most of the robot's structure and its weapon system structure pretty well. The top and bottom of the robot are made of 2mm carbon fiber and provide most of the strength. There are 8mm aluminum standoffs in the four corners to hold the weapon bearings. Underneath and above each bearing are PLA spacers to get them at the right height. The bearings have aluminum washers on them to increase the surface area of the flanges in contact with the weapon, aiding in the axial constrainment. Two of the bearings have their flanges and washers under the weapon, and two of them have them above the weapon, to provide support in both directions. The next step is to implement the mounting for the drive pulleys and motors.
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_212949825.png)
+Current design.
+
+Instead of doing the productive next step I described above, I created an assembly file(I do my frame as a multibody part) and inserted the weapon.
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_213801554.png)
+Yeah this thing is rediculous.
