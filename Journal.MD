@@ -77,10 +77,18 @@ Current design progress.
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_032743260.png)
 At this point, I added all the features for mounting the drive motors and the drive pulleys. The mounting plates use dogbones to key into the top and bottom plates, allowing them to have a healthy amount of strength without using any fasteners yet. I will likely add a single screw to each plate later once I am adding the TPU armor.
 
-At this point, I have about 90 grams left for ESCs, a series board for the batteries, a receiver, and any armor. Since each of those items besides the armor is just a couple grams I am not too worried about weight, but the armor weight can add up quickly. However, the whole idea behind this design was to "hide" behind the large weapon, so I am probably going to use very minimal armor.
+At this point, I have about 100 grams left for ESCs, a series board for the batteries, a receiver, and any armor. Since each of those items besides the armor is just a couple grams I am not too worried about weight, but the armor weight can add up quickly. However, the whole idea behind this design was to "hide" behind the large weapon, so I am probably going to use very minimal armor.
 
 6/15/2025
 
-1 Hour
+3 Hours
 
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_151127849.png)
 At this point, I modeled in the drive pulleys and the belts/tracks. 
+
+Now, I decided to add in the rest of the components into the model so that when I design the armor/body I know what I have to protect.
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_153056626.png)
+Adding in the drive motors revealed a couple flaws. I messed up when calculating the interference for the drive belts, so the motors need to get moved to the back more or the pulleys need to move forwards (with the belts being made shorter accordingly). I also forgot to add the pockets for motor clearance in the top and bottom plates.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_162455374.png)
+At this point, I got the drive motors to pretty much fit, but I will need to trim the shafts. The other issue is that two of the motor mounting screws interfere with the wheel pulleys and standoffs, so I may need to use countersunk screws in carbon fiber, which is suboptimal but I don't have many other choices.
