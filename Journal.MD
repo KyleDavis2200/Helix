@@ -76,3 +76,5 @@ Current design progress.
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_032743260.png)
 At this point, I added all the features for mounting the drive motors and the drive pulleys. The mounting plates use dogbones to key into the top and bottom plates, allowing them to have a healthy amount of strength without using any fasteners yet. I will likely add a single screw to each plate later once I am adding the TPU armor.
+
+At this point, I have about 90 grams left for ESCs, a series board for the batteries, a receiver, and any armor. Since each of those items besides the armor is just a couple grams I am not too worried about weight, but the armor weight can add up quickly. However, the whole idea behind this design was to "hide" behind the large weapon, so I am probably going to use very minimal armor.
