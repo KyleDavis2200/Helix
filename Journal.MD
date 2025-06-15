@@ -42,7 +42,7 @@ I plan to proceed with this layout tomorrow as I model the frame, however I expe
 
 6/14/2025
 
-3 Hours
+4 Hours
 
 Well, after thinking about it some more, I realized I should just got to the four bearing setup. This would save some weight and allow me to compact the robot more, which is always ideal. I would like to use extra weight for armor or for a fork on the back of the robot(unconventional for a ring spinner but counters the counter to the weapon). I also realized that the Repeat 2822 weapon motor that I planned on using would have been too big, sticking out past the top plate, and would have caused the robot to not be invertible. Instead, I replaced it with two 2205 drone motors, which should provide more than enough power. A single one of these motors could probably spin up the weapon, just barely, but due to the size of the weapon more motor is ideal. 
 
@@ -57,3 +57,7 @@ This layout, with the space gained from the treads, was much more comfortable. E
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_202731101.png)
 Oops! All weapon (: !
+
+Next, I extruded everything according to the sketches I made above. This outlines the construction of most of the robot's structure and its weapon system structure pretty well. The top and bottom of the robot are made of 2mm carbon fiber and provide most of the strength. There are 8mm aluminum standoffs in the four corners to hold the weapon bearings. Underneath and above each bearing are PLA spacers to get them at the right height. The bearings have aluminum washers on them to increase the surface area of the flanges in contact with the weapon, aiding in the axial constrainment. Two of the bearings have their flanges and washers under the weapon, and two of them have them above the weapon, to provide support in both directions. The next step is to implement the mounting for the drive pulleys and motors.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_212949825.png)
