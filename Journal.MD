@@ -39,3 +39,21 @@ By shrinking the internal ring diameter down to 5.25", I was able to knock a sig
 Current internal layout.
 
 I plan to proceed with this layout tomorrow as I model the frame, however I expect to encounter weight issues very shortly into my design process. My plan to save weight from there is to remove the rear bearing and reposition the remaining four bearings in a more square shape, allowing the battery to move further back and get rotated to fill up the created space. This would then allow me to shrink the robot more. This would save plenty of weight between the reduction in frame size, weapon size, and bearing count. I initially wanted to have five bearings as it would allow me to have three bearings supporting against the axial forces of upwards impacts and two against the axial forces of downwards(or, more likely, upwards impacts while inverted) impacts, however two of each would likely be plenty.
+
+6/14/2025
+
+1 Hour
+
+Well, after thinking about it some more, I realized I should just got to the four bearing setup. This would save some weight and allow me to compact the robot more, which is always ideal. I would like to use extra weight for armor or for a fork on the back of the robot(unconventional for a ring spinner but counters the counter to the weapon). I also realized that the Repeat 2822 weapon motor that I planned on using would have been too big, sticking out past the top plate, and would have caused the robot to not be invertible. Instead, I replaced it with two 2205 drone motors, which should provide more than enough power. A single one of these motors could probably spin up the weapon, just barely, but due to the size of the weapon more motor is ideal. 
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_181452156.png)
+This was the setup that I arrived at.
+
+I still felt like there was a bit more space to be squeezed out. One of the flaws with this setup is I needed to find space for belts to power the front wheels, and I didn't leave much space for this. My next step was to look into using tracks instead of wheels, as these would allow me to save more internal space as I can use two small pulleys for each the front and back of the tracks, creating a more rectangular profile, saving space on the inside of the robot.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_190412500.png)
+
+This layout, with the space gained from the treads, was much more comfortable. Each track weighed approximately 6.5 grams, which seemed bearable. Next, I made a sketch of the side of the robot, which would guide my extrusion thicknesses in the next step.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-14_202731101.png)
+Oops! All weapon (: !
