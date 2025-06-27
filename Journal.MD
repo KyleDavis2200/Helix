@@ -98,3 +98,22 @@ Now, I countersunk the drive motor mounting screws, inserted the weapon motors, 
 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-15_190205159.png)
 The interface layer is a pretty simple part. Its basically just a cylinder with a keying feature for the top of the motor and a slight step to provide clearance for the part of the motor that does not spin. I will probably be gluing or taping this onto the motor as there is not a way to screw anything onto this motor with the shaft cut off and axial forces are not a concern.
+
+6/25/2025
+
+0.25 Hours
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-26_230921436.png) 
+Just barely worked on it today. Flared out a portion near the bottom of the upper spacers on each standoff to provide vertical support for the TPU body that will rest on it.
+
+6/26/2025
+
+4 Hours
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-26_231108436.png)
+
+Today I modeled a super minimal TPU body/armor for the robot that protects from attacks and serves to keep the electronics in. Since the whole concept of this robot revolves (haha) around the weapon serving as the first line of defense, this armor system was super minimal, generally consisting of 2-4 walls 0.4mm thick walls with low infil. Even if the weapon goes down, it still has a steel ring around the entire robot that will serve as armor. The TPU armor ring is generally spaced out from most of the robot's critical components, so if an opponent manages to hit it and tear through it, they'll be unable to hit anything that would cause significant damage.
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-26_231128311.png)
+
+On the inside of the robot, the armor has another layer that holds all of the electronics within the frame. This keeps everything in place and prevents wires from getting tangled in the motors.
