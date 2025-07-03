@@ -117,3 +117,21 @@ Today I modeled a super minimal TPU body/armor for the robot that protects from 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-06-26_231128311.png)
 
 On the inside of the robot, the armor has another layer that holds all of the electronics within the frame. This keeps everything in place and prevents wires from getting tangled in the motors.
+
+7/1/2025
+
+2 Hours
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-03_153712994.png)
+
+Created a schematic for a basic PD Board / Switch / BEC for the robot. This was inspired by the Just Cuz Robotics PD Boards.
+
+7/2/2025
+
+4 Hours
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-03_154400292.png)
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-03_154423944.png)
+
+Created a layout for the PCB. The board has two XT30 connectors to connect to each battery (batteries are in series), and a third to output power to the rest of the 4in1 ESC. The switch is an M3 screw with a nut soldered onto the board. There is a linear regulator that serves to create a 5V output for powering the receiver.
