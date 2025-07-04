@@ -1,4 +1,11 @@
-i need to actually do the proper formatting at some point
+---
+title: Helix
+author: Kyle Davis
+description: A ring spinner antweight combat robot with a custom PCB for power distribution.
+created_at: 2025-06-13
+---
+
+Total Time 27.75 Hours
 
 6/13/2025
 
@@ -152,3 +159,9 @@ With via stitching done, the PCB is finalized and I can work on making a finaliz
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-04_011534417.png)
 
 I got my BOM put together. Everything came out a little bit more expensive than I would have liked, but I'm still well under the $350 budget for 10 point projects, and I believe this project deserves 10 points due to the extra complexity from the ring spinner design and the custom PCB.
+
+7/4/2025
+
+1.5 Hours
+
+Today I focused on updating the README and shipping my project.
