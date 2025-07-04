@@ -2,7 +2,7 @@
 Helix is an antweight ring spinner combat robot that uses its large weapon to protect itself from its opponents, instead of using normal armor.
 ![image](https://github.com/user-attachments/assets/911e167e-81d3-4e85-b08e-15358828fd6b)
 
-#Features
+# Features
 
 * 10" asymmetric AR500 steel weapon spinning at over 260 MPH with 128 joules of energy!
 * Vertical element to the weapon's counterweight blocks attacks from horizontal spinners before they hit the robot itself.
