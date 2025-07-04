@@ -135,3 +135,16 @@ Created a schematic for a basic PD Board / Switch / BEC for the robot. This was 
 ![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-03_154423944.png)
 
 Created a layout for the PCB. The board has two XT30 connectors to connect to each battery (batteries are in series), and a third to output power to the rest of the 4in1 ESC. The switch is an M3 screw with a nut soldered onto the board. There is a linear regulator that serves to create a 5V output for powering the receiver.
+
+7/3/2025
+
+2 Hours
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-03_155931484.png)
+
+Created mounting holes for the PCB. This will allow me to lock it in one place so the switch is always accessible, which is important for safety reasons. Last thing I have to do for this PCB is via stitching.
+
+
+![](https://github.com/KyleDavis2200/Ring-Spinner/blob/main/Images/image_2025-07-03_191305355.png)
+
+With via stitching done, the PCB is finalized and I can work on making a finalized BOM after I get a quote from JLCPCB.
