@@ -164,4 +164,8 @@ I got my BOM put together. Everything came out a little bit more expensive than 
 
 1.5 Hours
 
-Today I focused on updating the README and shipping my project.
+Today I focused on updating the README and shipping my project. I also added in screws to the CAD model to put the finishing touches on its aesthetics. However, I ran into an issue:
+
+![](https://github.com/KyleDavis2200/Helix/blob/main/Images/image_2025-07-04_152018474.png)
+
+My plan to fix this is going to be to space the motor away from the screws using washers or spacers, but that means extra weight and a further delay on finishing this project, meaning I am going to miss the opportunity to fight it at Undercity (which I was already far too late to have a chance at tbf), and at the SEMO event the week after. Designing in the spacers themselves is not a big delay, but needing to get quotes for new carbon fiber parts is a significant delay with the holiday weekend.
