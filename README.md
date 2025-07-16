@@ -12,6 +12,10 @@ Helix is an antweight ring spinner combat robot that uses its large weapon to pr
 * Durable TPU body with ultra lightweight design.
 * Custom PCB that serves as a switch, series board for the batteries, and a BEC for the receiver.
 
+# Images
+![](https://github.com/KyleDavis2200/Helix/blob/main/Images/image_2025-07-03_191305355.png)
+<img width="604" height="659" alt="image" src="https://github.com/user-attachments/assets/3199569c-adb9-4859-abc1-b0204bbf153a" />
+
 # Background
 
 Combat robotics has been one of my main hobbies ever since I joined my school's combat robotics team at the beginning fot he 2023-2024 school year. Throughout that time, I have mainly spent my time building 15lb eggbeater combat robots, where, due to the time and money invested into them, we are often scared to go too far outside of the box since a small design flaw could mean thousands of dollars and hundreds of hours were wasted. Highway is the perfect opportunity to make something outside of the box, as complex and creative projects are rewarded. 
