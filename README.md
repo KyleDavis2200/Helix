@@ -15,6 +15,9 @@ Helix is an antweight ring spinner combat robot that uses its large weapon to pr
 # Images
 ![](https://github.com/KyleDavis2200/Helix/blob/main/Images/image_2025-07-03_191305355.png)
 <img width="604" height="659" alt="image" src="https://github.com/user-attachments/assets/3199569c-adb9-4859-abc1-b0204bbf153a" />
+<img width="521" height="609" alt="image" src="https://github.com/user-attachments/assets/19f9d10c-4446-4ea3-8de8-4f84a14a61f9" />
+<img width="669" height="452" alt="image" src="https://github.com/user-attachments/assets/70211074-51a2-4287-a4d1-3d1aabd26a60" />
+
 
 # Background
 
