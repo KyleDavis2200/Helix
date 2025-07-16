@@ -5,7 +5,7 @@ description: A ring spinner antweight combat robot with a custom PCB for power d
 created_at: 2025-06-13
 ---
 
-Total Time 27.75 Hours
+Total Time 28.75 Hours
 
 6/13/2025
 
